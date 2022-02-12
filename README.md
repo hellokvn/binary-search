@@ -1,1 +1,1 @@
-[SOLID Principles in TypeScript](https://medium.com/@hellokevinvogel/solid-principles-in-typescript-153e6923ffdb) article published on Medium.
+[Binary Search in TypeScript](https://medium.com/@hellokevinvogel/binary-search-in-typescript-ca1a2abb7088) article published on Medium.
